@@ -1,5 +1,8 @@
 h1 {
-color: red;
+color: white;
+  background-color: black;
+  text-transform: uppercase;
+  
 }
 
 nav {
