@@ -5,16 +5,14 @@ header {
 
 header h1 {
   text-transform: uppercase;
-  display: inline;
   margin: 10px;
 }
 
 nav {
-  background-color: black;
+  background-color: #ff004d;
   text-align: right;
-  height: 30px;
+  height: 10px;
   padding: 30px;
-  display: inline;
 }
 
 nav a {
@@ -22,7 +20,6 @@ nav a {
   font-family: arial;
   color: white;
   text-transform: uppercase;
-  display: inline-block;
   text-decoration: none;
 }
 
