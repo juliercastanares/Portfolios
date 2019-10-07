@@ -19,6 +19,7 @@ header h2 {
 header img {
   padding: 10px;
   float: left;
+  vertical-align: middle;
 }
 
 nav {
