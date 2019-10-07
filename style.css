@@ -23,6 +23,7 @@ nav a {
   color: white;
   text-transform: uppercase;
   display: inline-block;
+  text-decoration: none;
 }
 
 body {
