@@ -36,7 +36,7 @@ nav a {
 }
 
 nav a:hover {
-  color: blue;
+  background-color: blue;
 }
 
 body {
