@@ -6,12 +6,19 @@ color: white;
 }
 
 nav {
+  font-family: arial;
+  color: white;
   background-color: black;
   text-align: right;
   height: 30px;
   padding: 30px;
+  text-transform: uppercase;
 }
 
 nav a {
   margin: 10px;
+}
+
+body {
+  background-color: black;
 }
