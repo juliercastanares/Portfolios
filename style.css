@@ -10,6 +10,12 @@ header h1 {
   font-family: arial;
 }
 
+header h2 {
+  font-size: 15px;
+  display: inline-block;
+  font-family: arial;
+}
+
 header img {
   padding: 10px;
   vertical-align: middle;
