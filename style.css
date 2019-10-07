@@ -19,6 +19,7 @@ nav a {
   font-family: arial;
   color: white;
   text-transform: uppercase;
+  display: inline-block;
 }
 
 body {
