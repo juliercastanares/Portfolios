@@ -8,8 +8,14 @@ header h1 {
   margin: 10px;
   font-size: 80px;
   display: inline;
-  vertical-align: center;
+  vertical-align: baseline;
 }
+
+header img {
+  padding: 10px;
+}
+
+
 
 nav {
   background-color: #ff004d;
