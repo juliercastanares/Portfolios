@@ -1,9 +1,11 @@
-h1 {
-color: white;
+header {
+  color: white;
   background-color: black;
+}
+
+header h1 {
   text-transform: uppercase;
   display: inline;
-  
 }
 
 nav {
