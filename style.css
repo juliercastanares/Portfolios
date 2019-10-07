@@ -3,7 +3,7 @@ header {
   background-img: url("https://i.pinimg.com/originals/ea/3f/d3/ea3fd3102ccf575e3c33954f73eab78d.jpg");
 }
 
-header h1 {
+h1 {
   text-transform: uppercase;
   font-size: 40px;
   display: inline;
