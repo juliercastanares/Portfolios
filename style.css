@@ -13,10 +13,8 @@ header h1 {
 
 header img {
   padding: 10px;
-  vertical-align: baseline;
+  vertical-align: middle;
 }
-
-
 
 nav {
   background-color: #ff004d;
@@ -30,6 +28,10 @@ nav a {
   color: white;
   text-transform: uppercase;
   text-decoration: none;
+}
+
+nav a:hover {
+  color: blue;
 }
 
 body {
