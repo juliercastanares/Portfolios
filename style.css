@@ -1,6 +1,7 @@
 header {
   color: white;
   background-color: black;
+  text-align: center;
 }
 
 header h1 {
@@ -8,7 +9,7 @@ header h1 {
   margin: 10px;
   font-size: 80px;
   display: inline;
-  vertical-align: baseline;
+  font-family: arial;
 }
 
 header img {
