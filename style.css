@@ -23,6 +23,7 @@ header h2 {
 header img {
   padding: 10px;
   float: left;
+  border: 3px white solid;
 }
 
 nav {
@@ -36,7 +37,6 @@ nav a {
   color: white;
   text-transform: uppercase;
   text-decoration: none;
-  border: white 3px solid;
   margin: 0px 13px;
   transition: 0.3s;
   font-weight: bold;
